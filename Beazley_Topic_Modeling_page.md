@@ -90,6 +90,6 @@ After much deliberation and experimentation with different numbers of topics, we
 
 **Links:**
 
-Download for Delimited Text File with Beazley Archive Data: http://shot.holycross.edu/ada-vases.tsv
+Link to Download the Delimited Text File with Beazley Archive Data: http://shot.holycross.edu/ada-vases.tsv
 
 Link to our work on a Jupyter Notebook: 
