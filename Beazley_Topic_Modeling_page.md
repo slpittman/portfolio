@@ -1,5 +1,5 @@
-# Topic Modelling Greek Vases #
-### Stephen Pittman, Ryan Wynn, Paul Topazio ###
+# Topic Modelling Greek Vases 
+### Stephen Pittman, Ryan Wynn, Paul Topazio
 
 **Brief Explanation of Project:**
 
