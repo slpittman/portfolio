@@ -89,6 +89,6 @@ After much deliberation and experimentation with different numbers of topics, we
 
 **Links:**
 
-Link to Delimited Text File: http://shot.holycross.edu/ada-vases.tsv
+Download Delimited Text File with Beazley Archive Data: http://shot.holycross.edu/ada-vases.tsv
 
 Link to our work on a Jupyter Notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/slpittman/portfolio/master)
