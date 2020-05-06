@@ -2,6 +2,7 @@
 ### Stephen Pittman, Ryan Wynn, Paul Topazio ###
 
 **Brief Explanation of Project**
+
 In this project we analyzed a data set of ancient Greek pottery from the archives of the work of Victorian scholar John Beazley using a method called Topic Modelling.
 Topic Modelling is a type of classification system using computer learning to separate a corpus of texts into topics of a specified number, k.
 
@@ -89,6 +90,6 @@ After much deliberation and experimentation with different numbers of topics, we
 
 **Links:**
 
-Download Delimited Text File with Beazley Archive Data: http://shot.holycross.edu/ada-vases.tsv
+Download for Delimited Text File with Beazley Archive Data: http://shot.holycross.edu/ada-vases.tsv
 
 Link to our work on a Jupyter Notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/slpittman/portfolio/master)
