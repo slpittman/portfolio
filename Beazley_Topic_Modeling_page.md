@@ -1,7 +1,7 @@
 # Topic Modelling Greek Vases #
 ### Stephen Pittman, Ryan Wynn, Paul Topazio ###
 
-**Brief Explanation of Project**
+**Brief Explanation of Project:**
 
 In this project we analyzed a data set of ancient Greek pottery from the archives of the work of Victorian scholar John Beazley using a method called Topic Modelling.
 Topic Modelling is a type of classification system using computer learning to separate a corpus of texts into topics of a specified number, k.
